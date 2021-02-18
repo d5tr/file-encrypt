@@ -8,6 +8,13 @@ print ('''
 | (__/  )/\____) )   | |   | ) \ \__
 (______/ \______/    )_(   |/   \__/
        # Thanks for use my tool #
+       
+ 000   11  
+0  00 111  
+0 0 0  11  
+00  0  11  
+ 000  11l1 
+           
 ''')
 from PyPDF2 import PdfFileWriter , PdfFileReader
 import py_compile
